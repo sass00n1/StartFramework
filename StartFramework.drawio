@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T08:11:49.907Z" agent="5.0 (Windows)" etag="W53AuGEa8EVUzBkeLkqR" version="17.4.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-17T11:03:24.994Z" agent="5.0 (Windows)" etag="orEFcIZMXOsIcy67G4IH" version="17.4.5" type="github" pages="7">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1462" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,60 +353,119 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iIGgSONa2DcAR9Ys91gX" name="武器系统">
-    <mxGraphModel dx="1018" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-6" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-6" target="W-Q-xo8lk6QFdtLJnoDA-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-6" target="W-Q-xo8lk6QFdtLJnoDA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-6" value="&lt;div&gt;CharacterHandleWeapon.cs&lt;/div&gt;&lt;div&gt;角色身上，负责装备和使用武器&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" width="189" height="60" as="geometry" />
+          <mxGeometry x="60" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-7" value="&lt;div&gt;父类&lt;br&gt;&lt;/div&gt;&lt;div&gt;Weapon.cs&lt;/div&gt;&lt;div&gt;当前武器&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;dashed=1;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-9" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-9" value="&lt;div&gt;ChangeWeapon方法更换武器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-10" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-10" value="&lt;div&gt;HandleInput方法&lt;/div&gt;&lt;div&gt;每帧检测输入&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-15" value="更换当前武器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="140" width="80" height="30" as="geometry" />
+        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-15" value="根据此字段更新手中的武器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-16" value="触发武器Class的射击方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="190" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-17" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="W-Q-xo8lk6QFdtLJnoDA-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577" y="-50" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-17" value="子弹武器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="577" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-18" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-18" value="近战武器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" width="120" height="60" as="geometry" />
+          <mxGeometry x="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="W-Q-xo8lk6QFdtLJnoDA-19" target="W-Q-xo8lk6QFdtLJnoDA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W-Q-xo8lk6QFdtLJnoDA-19" value="扫描武器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="577" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="BObfnGKUkezH7X8jsfoz-1" target="BObfnGKUkezH7X8jsfoz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-1" value="&lt;div&gt;ItemPicker.cs&lt;br&gt;&lt;/div&gt;&lt;div&gt;地上的可拾取物品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="BObfnGKUkezH7X8jsfoz-2" target="BObfnGKUkezH7X8jsfoz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WmtERiF_nkRVxFZolmba-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;fillColor=#99FF33;curved=1;strokeColor=#FF0000;labelBorderColor=default;" edge="1" parent="1" source="BObfnGKUkezH7X8jsfoz-4" target="WmtERiF_nkRVxFZolmba-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-4" value="&lt;div&gt;Inventory.cs&lt;/div&gt;&lt;div&gt;背包主数据，挂在场景中&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="-300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-6" value="将SO数据Add进去" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="-360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-7" value="触碰" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-9" value="&lt;div&gt;CharacterInventory.cs&lt;/div&gt;&lt;div&gt;技能部分，在主角身上&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BObfnGKUkezH7X8jsfoz-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#99FF33;entryX=0.045;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BObfnGKUkezH7X8jsfoz-9" target="WmtERiF_nkRVxFZolmba-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-150" as="sourcePoint" />
+            <mxPoint x="180" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmtERiF_nkRVxFZolmba-1" value="发送事件：装备武器" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rounded=0;shadow=0;glass=0;sketch=1;fontSize=13;fontColor=#000000;strokeColor=#000000;fillColor=#80FF00;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F183PRlIUOWZ5X8jpl1P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=default;fontColor=#000000;strokeColor=#000000;fillColor=#99FF33;" edge="1" parent="1" source="F183PRlIUOWZ5X8jpl1P-1" target="W-Q-xo8lk6QFdtLJnoDA-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="-10" />
+              <mxPoint x="405" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F183PRlIUOWZ5X8jpl1P-1" value="&lt;div&gt;Item.so&lt;/div&gt;&lt;div&gt;枪&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="-240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F183PRlIUOWZ5X8jpl1P-5" value="&lt;div align=&quot;left&quot;&gt;枪调用自身的“装备武器方法”&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;依赖的获取方式是：背包中存储持有者也就是玩家&lt;br&gt;&lt;/div&gt;&lt;div&gt;传的值就是：武器预制件&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="-180" width="275.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F183PRlIUOWZ5X8jpl1P-6" value="&lt;h1&gt;OOP的经典利用&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;利用对象，按照现实逻辑对游戏进行数据建模，对象拥有数据并向其它人提供功能。层层递进，这是非常关键的！！！&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#FF9999;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-400" width="300" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
