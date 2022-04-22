@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:03:59.439Z" agent="5.0 (Windows)" etag="Eo827LGPkuUBlVmXPGkb" version="17.4.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:18:24.857Z" agent="5.0 (Windows)" etag="hA58A-ILqb9WdH_HxNyY" version="17.4.6" type="github" pages="8">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -558,16 +558,16 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jGGJE73AfCp-8Iz2Cj2z" name="MVC">
+  <diagram id="jGGJE73AfCp-8Iz2Cj2z" name="MVC分层设计">
     <mxGraphModel dx="1883" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v8rsanjX5inM_pXWFOY6-1" value="View" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-10" value="View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="v8rsanjX5inM_pXWFOY6-1" target="v8rsanjX5inM_pXWFOY6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -579,28 +579,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-2" value="&lt;div&gt;Controller&lt;/div&gt;&lt;div&gt;+&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v8rsanjX5inM_pXWFOY6-3" target="v8rsanjX5inM_pXWFOY6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-3" value="&lt;div&gt;Controller&lt;/div&gt;&lt;div&gt;-&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="v8rsanjX5inM_pXWFOY6-4" target="v8rsanjX5inM_pXWFOY6-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-4" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;将Controller与Model从视图层分离出去，做到视图层可以轻松替换&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="-20" width="210" height="130" as="geometry" />
+          <mxGeometry x="760" y="-90" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-9" value="View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ub0QkZWGCktMfMygCQvP-1" value="&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏不适用MVC的一大关键原因是：GUI是事件驱动型程序，游戏是交互式程序。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;事件驱动型程序表现是固定的，只有逻辑事件驱动它时，表现才会动。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;交互式程序表现无时无刻都在动，逻辑也要依赖表现的状态完成一些事情。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏并非所有情况下都像GUI那样表现依赖于逻辑。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;例如：人物攀爬，逻辑要依赖使用动画手的位置检测能不能抓住攀爬点。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;View(动画)有时会影响Model(物理)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;-------------------------------------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;区分逻辑与表现：列出所有数据，和游戏规则息息相关的就是逻辑，和游戏规则无关的就是表现。&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="390" width="860" height="190" as="geometry" />
+        <mxCell id="Ub0QkZWGCktMfMygCQvP-1" value="&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏不适用MVC的一大关键原因是：GUI是事件驱动型程序，游戏是交互式程序。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;事件驱动型程序表现是固定的，只有逻辑事件驱动它时，表现才会动。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;交互式程序表现无时无刻都在动，逻辑也要依赖表现的状态完成一些事情。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏并非所有情况下都像GUI那样表现依赖于逻辑。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;例如：人物攀爬，逻辑要依赖使用动画手的位置检测能不能抓住攀爬点。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;View(动画)有时会影响Model(物理)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;并不是说游戏不需要分层了，而是要根据具体的问题构建具体的层次设计，因为不同的游戏之间的差异要比GUI大得多，而不是硬套MVC结构。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;-------------------------------------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;区分逻辑与表现：列出所有数据，和游戏规则息息相关的就是逻辑，和游戏规则无关的就是表现。&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="390" width="730" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Ub0QkZWGCktMfMygCQvP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#FF0000;" parent="1" source="Ub0QkZWGCktMfMygCQvP-3" target="Ub0QkZWGCktMfMygCQvP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -652,6 +652,12 @@
         </mxCell>
         <mxCell id="Ub0QkZWGCktMfMygCQvP-24" value="&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;传统GUI：表现依赖于逻辑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="150" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9J32rslbSS0WvyAcjZm-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://unity.com/sites/default/files/styles/810_scale_width/public/2020-02/software-architecture.jpg?itok=ckkCKPf5;" vertex="1" parent="1">
+          <mxGeometry x="800" y="198.5" width="520" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="e9J32rslbSS0WvyAcjZm-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;这样的分层，就可以替换Input和Simulation的抽象，轻松的改变程序的控制流，而不影响其它。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="491.5" width="520" height="68.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
