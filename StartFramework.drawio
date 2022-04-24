@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T03:58:36.804Z" agent="5.0 (Windows)" etag="jGDe1U_ZM0xOfyhO4kqo" version="17.4.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-24T02:44:37.426Z" agent="5.0 (Windows)" etag="UeGF1oNn0UaG753sw1U9" version="17.4.6" type="github" pages="8">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sLN11sO9VajTNZFmHG6B-2" value="&lt;h1&gt;IOC的好处：&lt;/h1&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;ul&gt;&lt;li&gt;最初的动机：在协调和排序应用程序活动时，框架通常扮演主程序的角色。这种控制的反转使框架能够充当可扩展的骨架。&lt;/li&gt;&lt;li&gt;将任务的执行与实现解耦。&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF3333&quot;&gt;（事件系统）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;将模块集中在其设计的任务上。&lt;font color=&quot;#FF3333&quot;&gt;（分数/经验/成就这些系统应该专注于自己的任务，而不是如何找到其它）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;将模块从对其他系统如何做的假设中解放出来，而不是依赖于契约。&lt;font color=&quot;#FF3333&quot;&gt;（想想，分数/经验/成就这些系统每帧都在关注玩家何时消灭敌人这种设计窘境）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;防止更换模块时产生副作用。&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF3333&quot;&gt;（服务定位器）&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" parent="1" vertex="1">
+        <mxCell id="sLN11sO9VajTNZFmHG6B-2" value="&lt;h1&gt;IOC的好处：&lt;/h1&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;ul&gt;&lt;li&gt;最初的动机：在协调和排序应用程序活动时，框架通常扮演主程序的角色。这种控制的反转使框架能够充当可扩展的骨架。&lt;/li&gt;&lt;li&gt;-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;&lt;/li&gt;&lt;li&gt;将任务的执行与实现解耦。&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF3333&quot;&gt;（事件系统）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;将模块集中在其设计的任务上。&lt;font color=&quot;#FF3333&quot;&gt;（分数/经验/成就这些系统应该专注于自己的任务，而不是如何找到其它）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;将模块从对其他系统如何做的假设中解放出来，而不是依赖于契约。&lt;font color=&quot;#FF3333&quot;&gt;（想想，分数/经验/成就这些系统每帧都在关注玩家何时消灭敌人这种设计窘境）&lt;/font&gt;&lt;/li&gt;&lt;li&gt;防止更换模块时产生副作用。&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF3333&quot;&gt;（服务定位器）&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="300" width="1060" height="310" as="geometry" />
         </mxCell>
       </root>
@@ -295,11 +295,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sF5rzg4sLR0sNwIVGvDy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="v8rsanjX5inM_pXWFOY6-1" target="v8rsanjX5inM_pXWFOY6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-1" value="View" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-10" value="View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="v8rsanjX5inM_pXWFOY6-1" target="v8rsanjX5inM_pXWFOY6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,93 +314,90 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-2" value="&lt;div&gt;Controller&lt;/div&gt;&lt;div&gt;+&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v8rsanjX5inM_pXWFOY6-3" target="v8rsanjX5inM_pXWFOY6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-3" value="&lt;div&gt;Controller&lt;/div&gt;&lt;div&gt;-&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v8rsanjX5inM_pXWFOY6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="v8rsanjX5inM_pXWFOY6-4" target="v8rsanjX5inM_pXWFOY6-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1070" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-4" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;将Controller与Model从视图层分离出去，做到视图层可以轻松替换&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-90" width="180" height="100" as="geometry" />
+          <mxGeometry x="770" y="-60" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="v8rsanjX5inM_pXWFOY6-9" value="View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub0QkZWGCktMfMygCQvP-1" value="&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏不适用MVC的一大关键原因是：GUI是事件驱动型程序，游戏是交互式程序。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;事件驱动型程序表现是固定的，只有逻辑事件驱动它时，表现才会动。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;交互式程序表现无时无刻都在动，逻辑也要依赖表现的状态完成一些事情。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;游戏并非所有情况下都像GUI那样表现依赖于逻辑。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;例如：人物攀爬，逻辑要依赖使用动画手的位置检测能不能抓住攀爬点。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;View(动画)有时会影响Model(物理)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;并不是说游戏不需要分层了，而是要根据具体的问题构建具体的层次设计，因为不同的游戏之间的差异要比GUI大得多，而不是硬套MVC结构。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;-------------------------------------------------------------------------------------------------&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;区分逻辑与表现：列出所有数据，和游戏规则息息相关的就是逻辑，和游戏规则无关的就是表现。&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="390" width="730" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e9J32rslbSS0WvyAcjZm-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://unity.com/sites/default/files/styles/810_scale_width/public/2020-02/software-architecture.jpg?itok=ckkCKPf5;" parent="1" vertex="1">
-          <mxGeometry x="800" y="198.5" width="520" height="293" as="geometry" />
+          <mxGeometry x="740" y="258.5" width="520" height="293" as="geometry" />
         </mxCell>
         <mxCell id="e9J32rslbSS0WvyAcjZm-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;这样的分层，就可以替换Input和Simulation的抽象，轻松的改变程序的控制流，而不影响其它。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="800" y="491.5" width="520" height="68.5" as="geometry" />
+          <mxGeometry x="740" y="551.5" width="520" height="68.5" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-1" target="VyXEFCP3bw_nz4Y6F34w-4">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-1" target="VyXEFCP3bw_nz4Y6F34w-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-1" target="VyXEFCP3bw_nz4Y6F34w-3">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-1" target="VyXEFCP3bw_nz4Y6F34w-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-1" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-1" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-3" target="VyXEFCP3bw_nz4Y6F34w-1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-3" target="VyXEFCP3bw_nz4Y6F34w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-3" value="View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-3" value="View" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-4" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-4" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-85" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-5" target="VyXEFCP3bw_nz4Y6F34w-3">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-5" target="VyXEFCP3bw_nz4Y6F34w-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-5" value="&lt;font color=&quot;#000000&quot;&gt;用户&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;fontSize=18;fontColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-5" value="&lt;font color=&quot;#000000&quot;&gt;用户&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;fontSize=18;fontColor=#FF0000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="155" y="-130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1.点击UI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1.点击UI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="195" y="-35" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;2.UI调用Controller&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;2.UI调用Controller&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="265" y="200" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;3.Controller改变Model的状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;3.Controller改变Model的状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="115" y="268.5" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;4.Controller也会直接改变View&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;4.Controller也会直接改变View&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="265" y="90" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-18" value="&lt;font color=&quot;#FF0000&quot;&gt;替换不同的Controller就是替换不同的策略&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-18" value="&lt;font color=&quot;#FF0000&quot;&gt;替换不同的Controller就是替换不同的策略&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="395" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-19" value="&lt;font color=&quot;#FF0000&quot;&gt;View是一个观察者，可以被轻易替换&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-19" value="&lt;font color=&quot;#FF0000&quot;&gt;View是一个观察者，可以被轻易替换&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="65" y="5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-17" target="VyXEFCP3bw_nz4Y6F34w-4">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;strokeColor=#FF0000;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-17" target="VyXEFCP3bw_nz4Y6F34w-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;5.反应式更新View&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;，View查询Model状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;5.反应式更新View&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;，View查询Model状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-130" y="195" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeColor=#FF0000;endArrow=none;" edge="1" parent="1" source="VyXEFCP3bw_nz4Y6F34w-3" target="VyXEFCP3bw_nz4Y6F34w-17">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeColor=#FF0000;endArrow=none;" parent="1" source="VyXEFCP3bw_nz4Y6F34w-3" target="VyXEFCP3bw_nz4Y6F34w-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="90" as="sourcePoint" />
             <mxPoint x="-25" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-24" value="&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;传统GUI：表现依赖于逻辑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-24" value="&lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;传统GUI：表现依赖于逻辑&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-15" y="140" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VyXEFCP3bw_nz4Y6F34w-25" value="&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;MVC最本质的动机：如果用户需要在不同的上下文中看到相同的Model元素，这个结构是有用的。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="VyXEFCP3bw_nz4Y6F34w-25" value="&lt;b&gt;&lt;font color=&quot;#FF0000&quot;&gt;MVC最本质的动机：如果用户需要在不同的上下文中看到相同的Model元素，这个结构是有用的。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="235" y="-140" width="380" height="100" as="geometry" />
         </mxCell>
       </root>
@@ -625,7 +625,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-LvT2iNH8mZshUdfgRSt" name="存档系统">
-    <mxGraphModel dx="1438" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
