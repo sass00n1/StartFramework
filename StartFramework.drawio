@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T08:01:11.513Z" agent="5.0 (Windows)" etag="dav1tNoh9H-BjvC4eUkq" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-17T05:56:23.750Z" agent="5.0 (Windows)" etag="masE-Qt6AHSX1Lki08yd" version="18.0.0" type="github" pages="8">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
-    <mxGraphModel dx="238" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6uLK04TobMAoKT2L0kqD" name="技能系统">
-    <mxGraphModel dx="1303" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,9 +432,6 @@
         <mxCell id="nvX3F_6xwBLlbkUAn0Qx-2" value="Update遍历所有技能组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SWiGQI8c52VVEfCVwMhV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nvX3F_6xwBLlbkUAn0Qx-6" target="SWiGQI8c52VVEfCVwMhV-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nvX3F_6xwBLlbkUAn0Qx-6" value="跳跃技能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -447,23 +444,35 @@
         <mxCell id="nvX3F_6xwBLlbkUAn0Qx-9" value="......技能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SWiGQI8c52VVEfCVwMhV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SWiGQI8c52VVEfCVwMhV-1" target="SWiGQI8c52VVEfCVwMhV-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SWiGQI8c52VVEfCVwMhV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SWiGQI8c52VVEfCVwMhV-1" target="SWiGQI8c52VVEfCVwMhV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SWiGQI8c52VVEfCVwMhV-1" value="&lt;div&gt;HandleInput&lt;/div&gt;&lt;div&gt;方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="SWiGQI8c52VVEfCVwMhV-1" value="&lt;div&gt;HandleInput&lt;/div&gt;&lt;div&gt;虚方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SWiGQI8c52VVEfCVwMhV-3" value="InputManager.cs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SWiGQI8c52VVEfCVwMhV-5" value="查询按键状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="520" width="90" height="30" as="geometry" />
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWiGQI8c52VVEfCVwMhV-6" target="SWiGQI8c52VVEfCVwMhV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWiGQI8c52VVEfCVwMhV-6" target="SWiGQI8c52VVEfCVwMhV-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SWiGQI8c52VVEfCVwMhV-6" value="最终的跳跃技能实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-2" value="查询输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-4" value="实现虚方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-5" value="&lt;div&gt;HandleInput&lt;/div&gt;&lt;div&gt;虚方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-6" value="&lt;div&gt;HandleInput&lt;/div&gt;&lt;div&gt;虚方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JjrHdyW9YcUw1EU4LXZn-7" value="&lt;div&gt;HandleInput&lt;/div&gt;&lt;div&gt;虚方法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
