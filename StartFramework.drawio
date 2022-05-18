@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T05:56:23.750Z" agent="5.0 (Windows)" etag="masE-Qt6AHSX1Lki08yd" version="18.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-18T12:59:26.798Z" agent="5.0 (Windows)" etag="UlF8ChFYtAaba5dkeRXx" version="18.0.6" type="github" pages="9">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,8 +276,8 @@
         <mxCell id="PBYzNvLG6ebrGYuyzUBN-3" value="&lt;font style=&quot;font-size: 17px&quot;&gt;←编译时绑定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="790" y="425" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6_bbJBlq6ccgd4fj25Xn-1" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;全局状态的危害：&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;1.破坏封装，导致函数不纯：例如一个函数，如果出现了问题，只需搞清楚传来的值和函数本身即可。但是如果函数中有一个全局状态，则需要搞清楚外部。一个函数，它没有了稳定的输出，不能自己控制自己，即可以说它的封装被破坏了。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;2..强耦合：随处都可以直接使用，造成不合时宜的耦合。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-106" y="-161" width="338" height="203" as="geometry" />
+        <mxCell id="6_bbJBlq6ccgd4fj25Xn-1" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;全局状态的危害：&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;1.破坏封装，导致函数不纯：例如一个函数，如果出现了问题，只需搞清楚传来的值和函数本身即可。但是如果函数中有一个全局状态，则需要搞清楚外部。一个函数，它没有了稳定的输出，不能自己控制自己，即可以说它的封装被破坏了。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FF0000&quot;&gt;2.强耦合：随处都可以直接使用，造成不合时宜的耦合。其次单例是实现上的耦合，因为它不能使用接口。&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-106" y="-161" width="338" height="251" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -679,6 +679,44 @@
         </mxCell>
         <mxCell id="nVIuFhXh5-S7ZQBF9YYk-15" value="&lt;h1&gt;DI友好的体现&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Manager依赖一个“存储方法接口”，需要不同的存储方式时可以方便的替换实现。依赖抽象而不是依赖实现。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="295" y="110" width="190" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_tQLsHUFLXu1XA1BEf4h" name="生存模板">
+    <mxGraphModel dx="1621" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="19HGtY-FT00zjpxcR5o0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-160" width="1200" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-1" value="UI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-2" value="Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-3" value="敌人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-4" value="关卡元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-5" value="音频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-6" value="特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-7" value="游戏系统：成就" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0kUIazF1uP17ymCNLV-8" value="序列化存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19HGtY-FT00zjpxcR5o0-2" value="&lt;div align=&quot;left&quot;&gt;重读代码大全：&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;软件工程首要使命：管理复杂度&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;好处：&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有软件设计的目标都是把复杂的问题分解为简单的部分，子系统间相互依赖越少，你就越容易专注于一小部分。精心设计的对象关系使关注点相互分离，从而使你在某一时刻只需关注一件事。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="30" width="280" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
