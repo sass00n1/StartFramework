@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T12:59:26.798Z" agent="5.0 (Windows)" etag="UlF8ChFYtAaba5dkeRXx" version="18.0.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-19T10:53:47.673Z" agent="5.0 (Windows)" etag="AWbKzX2_nKKRcVoU7hS3" version="18.0.7" type="github" pages="9">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -684,39 +684,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_tQLsHUFLXu1XA1BEf4h" name="生存模板">
-    <mxGraphModel dx="1621" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="19HGtY-FT00zjpxcR5o0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-160" width="1200" height="600" as="geometry" />
+        <mxCell id="ihXZ5u6pZj25GSVALFos-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BS0kUIazF1uP17ymCNLV-1" target="BS0kUIazF1uP17ymCNLV-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-1" value="UI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-120" width="120" height="60" as="geometry" />
+        <mxCell id="BS0kUIazF1uP17ymCNLV-1" value="UI模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-2" value="Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="ihXZ5u6pZj25GSVALFos-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BS0kUIazF1uP17ymCNLV-2" target="ihXZ5u6pZj25GSVALFos-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-3" value="敌人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="BS0kUIazF1uP17ymCNLV-2" value="Player" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-4" value="关卡元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="19HGtY-FT00zjpxcR5o0-2" value="&lt;div align=&quot;left&quot;&gt;重读代码大全——在讨论架构时我们在讨论什么？&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;软件工程首要使命：管理复杂度&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;好处：&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有软件设计的目标都是把复杂的问题分解为简单的部分，子系统间相互依赖越少，你就越容易专注于一小部分。精心设计的对象关系使关注点相互分离，从而使你在某一时刻只需关注一件事。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;设计的层次（模块化编程）：&lt;/div&gt;&lt;div&gt;软件设计需要层次，软件→子系统→子系统中的多个类→类中的数据与行为→方法&lt;br&gt;&lt;/div&gt;&lt;div&gt;子系统之间的通信规则是重要的一环，子系统之间的通信应该加以限制，尽可能的缩减连接，形态应呈现为有向无环图，这时如果想更换一个系统，会更加简单。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;如何设计软件的一些启发式方法：&lt;/div&gt;&lt;div&gt;1.找出现实世界中的对象，一一映射到OOP的对象，并考虑它们之间的交互。&lt;/div&gt;&lt;div&gt;2.形成一致的抽象&lt;/div&gt;&lt;div&gt;3.封装实现的细节&lt;/div&gt;&lt;div&gt;4.如果继承能让你更方便则就使用继承&lt;/div&gt;&lt;div&gt;5.信息隐藏，例如新对象要初始化一个ID，不能id=globalID++。如果这样的话，那么要改写id的规则就需要改所有，应该将globalID++的行为封装成方法，隐藏起来。&lt;/div&gt;&lt;div&gt;6.找出容易改变的区域&lt;/div&gt;&lt;div&gt;7.保持松散耦合&lt;/div&gt;&lt;div&gt;8.设计模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="-40" width="320" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-5" value="音频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-6" value="特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-7" value="游戏系统：成就" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0kUIazF1uP17ymCNLV-8" value="序列化存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="19HGtY-FT00zjpxcR5o0-2" value="&lt;div align=&quot;left&quot;&gt;重读代码大全：&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;软件工程首要使命：管理复杂度&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;好处：&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有软件设计的目标都是把复杂的问题分解为简单的部分，子系统间相互依赖越少，你就越容易专注于一小部分。精心设计的对象关系使关注点相互分离，从而使你在某一时刻只需关注一件事。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="30" width="280" height="410" as="geometry" />
+        <mxCell id="ihXZ5u6pZj25GSVALFos-3" value="输入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.99647058823513" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
