@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T11:33:39.981Z" agent="5.0 (Windows)" etag="iSb9eVzKxxHXVsq899wH" version="19.0.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-16T11:56:40.041Z" agent="5.0 (Windows)" etag="aFUnpf6TCD-5DVynsPBi" version="20.0.0" type="github" pages="10">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,8 +734,19 @@
         <mxCell id="m925f_EAhWTfkjzYrJHL-13" value="监听大招事件" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PCwYS8UEmn7-CA50HDDl-1" value="&lt;div&gt;如何做到模块化：&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.有向无环图，避免环形依赖。这样就可以容易的&lt;font color=&quot;#FF0000&quot;&gt;删掉&lt;/font&gt;其它模块。&lt;/div&gt;&lt;div&gt;2.定义接口。这样就可以容易的&lt;font color=&quot;#FF0000&quot;&gt;替换&lt;/font&gt;其它模块。&lt;/div&gt;&lt;div&gt;3.基于组件的设计。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="PCwYS8UEmn7-CA50HDDl-1" value="&lt;div&gt;如何做到模块化：&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.有向无环图，避免环形依赖。这样就可以容易的&lt;font color=&quot;#FF0000&quot;&gt;删掉&lt;/font&gt;其它模块。&lt;/div&gt;&lt;div&gt;2.定义接口。这样就可以容易的&lt;font color=&quot;#FF0000&quot;&gt;替换&lt;/font&gt;其它模块。&lt;/div&gt;&lt;div&gt;3.基于组件的设计。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-40" width="480" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a3yFFA1AC4QvtvPU7vr9" name="架构整洁之道">
+    <mxGraphModel dx="1438" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vSib-kQASKO0IKpCG3nc-1" value="&lt;h1&gt;软件架构的终极目标&lt;br&gt;&lt;/h1&gt;&lt;p&gt;用最小的人力成本来满足构建和维护该系统的需求。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
