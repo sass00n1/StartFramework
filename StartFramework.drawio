@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T05:55:44.572Z" agent="5.0 (Windows)" etag="f9xI9ofhXwVyJjgP50i6" version="20.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-20T06:58:54.189Z" agent="5.0 (Windows)" etag="wtC3zZbOKDYDEbMnuL5c" version="20.0.1" type="github" pages="10">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
     <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -754,7 +754,7 @@
         <mxCell id="2pT5Ae6r55IgCabX8qVZ-2" value="&lt;h1&gt;SOLID原则&lt;/h1&gt;&lt;div&gt;1.单一职责：&lt;/div&gt;&lt;div&gt;违反：3种函数放入一个类中，修改一个函数会影响另外两个，版本控制时也会冲突。&lt;/div&gt;&lt;div&gt;遵循：3种函数分为3个类，并用&lt;font color=&quot;#FF0000&quot;&gt;Facade模式&lt;/font&gt;管理。&lt;/div&gt;&lt;div&gt;2.开放封闭&lt;/div&gt;&lt;div&gt;一层层的单向依赖，低层模块修改不会影响到高层模块，这种组织方式是将一系列模块划分为组件。&lt;font color=&quot;#FF0000&quot;&gt;人物控制 / 存储 / IOC控制&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3.里氏替换&lt;/div&gt;&lt;div&gt;依赖于一种接口，实现该接口的类之间具有可替换性。一旦违反可替换性，就会增加很多应对措施。&lt;/div&gt;&lt;div&gt;4.接口隔离&lt;/div&gt;&lt;div&gt;不要依赖不需要的东西，会带来一些耦合麻烦。&lt;/div&gt;&lt;div&gt;5.依赖倒置&lt;/div&gt;&lt;div&gt;应该关注经常变动的具体实现模块。&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="150" width="1000" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="2pT5Ae6r55IgCabX8qVZ-3" value="&lt;h1&gt;什么是软件架构&lt;br&gt;&lt;/h1&gt;&lt;p&gt;实质：规划如何将系统切分成组件，安排组件之间的排列关系，以及组件之间的通信。&lt;/p&gt;&lt;p&gt;在设计中，尽可能长时间的保留尽可能多的可选项。比如可多选的存储方式。避免与某一个方案完全的耦合。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="2pT5Ae6r55IgCabX8qVZ-3" value="&lt;h1&gt;什么是软件架构&lt;br&gt;&lt;/h1&gt;&lt;p&gt;实质：规划如何将系统切分成组件，安排组件之间的排列关系，以及组件之间的通信。&lt;/p&gt;&lt;p&gt;目的：在设计中，尽可能长时间的保留尽可能多的可选项。比如可多选的存储方式。避免与某一个方案完全的耦合。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-40" y="360" width="1000" height="160" as="geometry" />
         </mxCell>
       </root>
