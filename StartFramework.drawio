@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T06:58:54.189Z" agent="5.0 (Windows)" etag="wtC3zZbOKDYDEbMnuL5c" version="20.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-30T02:53:14.638Z" agent="5.0 (Windows)" etag="b0oRH72EsKdJ17LIe60B" version="20.0.3" type="github" pages="10">
   <diagram id="Q4NOb3F9aCevTINg1pPU" name="事件">
-    <mxGraphModel dx="1507" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="238" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,15 +596,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BLDyyzPnFt5mrQUmkB76" name="背包与拾取">
-    <mxGraphModel dx="919" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MDtZXn_G9KabZqxlIENa-1" value="&lt;div&gt;Inventory.cs&lt;/div&gt;&lt;div&gt;背包的主数据，挂载在场景中&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MDtZXn_G9KabZqxlIENa-5" value="&lt;font color=&quot;#FF3333&quot;&gt;这里的一大问题是所有引用都用的Find&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="240" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MDtZXn_G9KabZqxlIENa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="MDtZXn_G9KabZqxlIENa-7" target="MDtZXn_G9KabZqxlIENa-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -630,7 +627,7 @@
         <mxCell id="MDtZXn_G9KabZqxlIENa-15" value="UI" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MDtZXn_G9KabZqxlIENa-17" value="引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="MDtZXn_G9KabZqxlIENa-17" value="依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="230" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
