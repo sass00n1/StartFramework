@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T08:50:32.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="RHOA7yFPUfePQUPRvai1" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T14:21:30.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="O2RXYH0z638KbuxcFAc4" version="23.1.4" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="2280" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3390" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-1" value="龙与地下城" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-8" edge="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-29" edge="1">
@@ -41,14 +41,17 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-4" value="创世纪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_RicVbNhM5iwKY0uATJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-5" target="O51LmECOLkoYSxK84_-_-8">
+        <mxCell id="O51LmECOLkoYSxK84_-_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-5" target="O51LmECOLkoYSxK84_-_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-5" value="巫术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-8" target="EsOjQUVbrkSsDcICeVrX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-8" value="&lt;div&gt;勇者斗恶龙&lt;/div&gt;&lt;div&gt;（JRPG里程碑）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-14" target="O51LmECOLkoYSxK84_-_-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -70,16 +73,11 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-17" value="博德之门1/2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_RicVbNhM5iwKY0uATJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-18" target="l_RicVbNhM5iwKY0uATJ-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-18" value="无冬之夜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-19" value="博德之门3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-22" value="异域镇魂曲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="280" width="120" height="60" as="geometry" />
@@ -125,7 +123,10 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-33" value="Times of Lore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-265" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-37" value="上古卷轴：竞技场" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-37" target="EsOjQUVbrkSsDcICeVrX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O51LmECOLkoYSxK84_-_-37" value="上古卷轴系列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="155" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-39" value="沉浸式模拟类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -148,7 +149,7 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-48" value="博德之门：黑暗联盟" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-265" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-50" value="巫师系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-50" value="巫师系列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-265" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-57" target="O51LmECOLkoYSxK84_-_-59" edge="1">
@@ -160,11 +161,14 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-59" value="辐射系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-61" value="寻路者：拥王者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="O51LmECOLkoYSxK84_-_-61" value="寻路者：拥王者" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_RicVbNhM5iwKY0uATJ-3" value="永恒之柱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-1" value="最终幻想" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-3" value="Kenshi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
