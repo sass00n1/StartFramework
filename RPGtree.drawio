@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T14:21:30.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="O2RXYH0z638KbuxcFAc4" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T02:49:29.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DVEjN189k0oscXOJ2V7j" version="23.1.4" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="3390" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2872" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,16 +38,16 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-4" value="创世纪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-4" value="创世纪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-5" target="O51LmECOLkoYSxK84_-_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-5" value="巫术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-5" value="巫术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsOjQUVbrkSsDcICeVrX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-8" target="EsOjQUVbrkSsDcICeVrX-1">
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-8" target="EsOjQUVbrkSsDcICeVrX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-8" value="&lt;div&gt;勇者斗恶龙&lt;/div&gt;&lt;div&gt;（JRPG里程碑）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-14" target="O51LmECOLkoYSxK84_-_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-14" value="DND规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-14" value="DND规则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-16" value="金盒系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-18" value="无冬之夜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-19" value="博德之门3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-19" value="博德之门3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-22" value="异域镇魂曲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-29" target="O51LmECOLkoYSxK84_-_-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-29" value="&lt;div&gt;德鲁阿加之塔防&lt;/div&gt;&lt;div&gt;（动作RPG里程碑）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-29" value="&lt;div&gt;德鲁阿加之塔&lt;/div&gt;&lt;div&gt;（动作RPG里程碑）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-315" y="305" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-31" target="O51LmECOLkoYSxK84_-_-33" edge="1">
@@ -123,13 +123,13 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-33" value="Times of Lore" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-265" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsOjQUVbrkSsDcICeVrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-37" target="EsOjQUVbrkSsDcICeVrX-3">
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-37" target="EsOjQUVbrkSsDcICeVrX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-37" value="上古卷轴系列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="155" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-39" value="沉浸式模拟类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-39" value="沉浸式模拟类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-95" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-42" target="O51LmECOLkoYSxK84_-_-46" edge="1">
@@ -137,7 +137,7 @@
             <mxPoint x="-680.3333333333333" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-42" value="Roguelike" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-42" value="Roguelike" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-740" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-46" value="暗黑破坏神" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -161,13 +161,13 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-59" value="辐射系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O51LmECOLkoYSxK84_-_-61" value="寻路者：拥王者" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="O51LmECOLkoYSxK84_-_-61" value="寻路者：拥王者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsOjQUVbrkSsDcICeVrX-1" value="最终幻想" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-1" value="最终幻想" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsOjQUVbrkSsDcICeVrX-3" value="Kenshi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="EsOjQUVbrkSsDcICeVrX-3" value="Kenshi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="155" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
