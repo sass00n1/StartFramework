@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T05:20:49.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_fL1pREB_mrRXBo-et8o" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T05:31:30.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="EmKwVosZs0yVNxvcYf5N" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="4127" dy="1290" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4702" dy="1587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,6 +268,11 @@
         <mxCell id="O51LmECOLkoYSxK84_-_-48" value="博德之门：黑暗联盟" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1201.5" y="833" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-50" target="-TDDyAZX5vg_yCtTEK7J-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1142" y="1196.666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-50" value="巫师系列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-1201.5" y="1030.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -527,6 +532,9 @@
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-41" value="Pathos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1850" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-48" value="赛博朋克2077" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1201.5" y="1178.496666666667" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
