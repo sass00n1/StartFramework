@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T07:59:47.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="wVlWZNe31mKOLO_f3FZ1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T08:40:09.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="TsZb8lWBTsopUDiCBH6H" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="4990" dy="1735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4472" dy="1468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,6 +432,11 @@
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-33" value="吟游诗人的故事" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GkkZgiXeQc9Gm0APtSh3-36" target="-TDDyAZX5vg_yCtTEK7J-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.41176470588243" y="812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-36" value="暗黑地牢" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
         </mxCell>
@@ -563,6 +568,9 @@
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-58" value="宿命残响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="781.8733333333339" y="892.996666666667" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-60" value="&lt;div&gt;幽暗迷城&lt;/div&gt;&lt;div&gt;(GloomHaven)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150.00176470588244" y="822" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
