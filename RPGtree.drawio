@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T05:31:30.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="EmKwVosZs0yVNxvcYf5N" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T06:00:43.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="OciLYR6W1ybksPLo12AX" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="4702" dy="1587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4990" dy="1735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,6 +287,9 @@
             <mxPoint x="19.66666666666697" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-59" target="-TDDyAZX5vg_yCtTEK7J-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-59" value="辐射1/2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -399,7 +402,7 @@
           <mxGeometry x="2214" y="866" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-32" value="天外世界" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40.00333333333302" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="698" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GkkZgiXeQc9Gm0APtSh3-33" target="O51LmECOLkoYSxK84_-_-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -535,6 +538,9 @@
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-48" value="赛博朋克2077" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1201.5" y="1178.496666666667" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-49" value="Atom RPG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="700" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
