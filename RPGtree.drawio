@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T06:38:26.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Khy5eD71vJixMuQKOOj5" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T07:56:46.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="yEonoAcGxIWoJQn8nup0" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="7580" dy="3070" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4127" dy="1290" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,6 +320,11 @@
         <mxCell id="4LCnpBkKu6pFPKdTCTja-1" value="&lt;div&gt;最终幻想传奇&lt;/div&gt;&lt;div&gt;（沙加系列）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="936.87" y="603.5" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4LCnpBkKu6pFPKdTCTja-3" target="-TDDyAZX5vg_yCtTEK7J-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996.3333333333339" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4LCnpBkKu6pFPKdTCTja-3" value="宝可梦系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="936.87" y="708.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -547,6 +552,9 @@
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-51" value="龙之信条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87" y="1348.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-56" value="磁带妖怪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="936.8733333333339" y="813" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
