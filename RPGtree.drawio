@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T07:56:46.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="yEonoAcGxIWoJQn8nup0" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T07:59:47.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="wVlWZNe31mKOLO_f3FZ1" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="4127" dy="1290" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4990" dy="1735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,6 +308,11 @@
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EsOjQUVbrkSsDcICeVrX-1" target="4LCnpBkKu6pFPKdTCTja-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EsOjQUVbrkSsDcICeVrX-1" target="-TDDyAZX5vg_yCtTEK7J-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="841.3333333333339" y="811.666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EsOjQUVbrkSsDcICeVrX-1" value="最终幻想1-12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="742.37" y="481" width="199" height="60" as="geometry" />
         </mxCell>
@@ -431,7 +436,7 @@
           <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-38" value="星之海" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="663.37" y="708.5" width="81.25" height="60" as="geometry" />
+          <mxGeometry x="663.36" y="893" width="81.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-41" value="传说之下" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310.87" y="603.5" width="70" height="50" as="geometry" />
@@ -554,7 +559,10 @@
           <mxGeometry x="87" y="1348.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-56" value="磁带妖怪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="936.8733333333339" y="813" width="120" height="60" as="geometry" />
+          <mxGeometry x="936.8733333333339" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDDyAZX5vg_yCtTEK7J-58" value="宿命残响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781.8733333333339" y="892.996666666667" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
