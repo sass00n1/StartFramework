@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T02:38:22.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="dnBfQLDmieMdqpG5fbP1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T10:29:19.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="RUbsOqvjk7CtVhlDpdkN" version="23.1.5" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
     <mxGraphModel dx="7580" dy="3470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="110" />
-              <mxPoint x="172" y="110" />
+              <mxPoint x="55" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,23 +42,23 @@
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="GkkZgiXeQc9Gm0APtSh3-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="168" y="531" />
-              <mxPoint x="58" y="531" />
+              <mxPoint x="55" y="535" />
+              <mxPoint x="-55" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="GkkZgiXeQc9Gm0APtSh3-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="168" y="531" />
-              <mxPoint x="338" y="531" />
+              <mxPoint x="55" y="535" />
+              <mxPoint x="225" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="168" y="460" />
+              <mxPoint x="55" y="460" />
               <mxPoint x="-1191" y="460" />
             </Array>
           </mxGeometry>
@@ -66,15 +66,13 @@
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-4" target="O51LmECOLkoYSxK84_-_-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="168" y="365" />
-              <mxPoint x="170" y="365" />
-              <mxPoint x="170" y="460" />
+              <mxPoint x="55" y="460" />
               <mxPoint x="756" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-4" value="&lt;div&gt;创世纪&lt;/div&gt;&lt;div&gt;(CRPG里程碑)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="108" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5" y="259" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-5" target="GkkZgiXeQc9Gm0APtSh3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -291,18 +289,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-57" value="废土" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-92" y="711" width="120" height="60" as="geometry" />
+          <mxGeometry x="-205" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-59" target="GkkZgiXeQc9Gm0APtSh3-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-32.33333333333303" y="921" as="targetPoint" />
+            <mxPoint x="-145.33333333333303" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O51LmECOLkoYSxK84_-_-59" target="-TDDyAZX5vg_yCtTEK7J-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-59" value="辐射1/2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-92" y="811" width="120" height="60" as="geometry" />
+          <mxGeometry x="-205" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-61" value="寻路者：拥王者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="770" width="120" height="60" as="geometry" />
@@ -426,7 +424,7 @@
           <mxGeometry x="2206" y="1043" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-32" value="天外世界" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-132" y="909" width="80" height="60" as="geometry" />
+          <mxGeometry x="-245" y="913" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GkkZgiXeQc9Gm0APtSh3-33" target="O51LmECOLkoYSxK84_-_-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -434,22 +432,22 @@
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GkkZgiXeQc9Gm0APtSh3-33" target="GkkZgiXeQc9Gm0APtSh3-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="58" y="681" />
-              <mxPoint x="158" y="681" />
-              <mxPoint x="158" y="901" />
+              <mxPoint x="-55" y="685" />
+              <mxPoint x="45" y="685" />
+              <mxPoint x="45" y="905" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-33" value="吟游诗人的故事" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2" y="591" width="120" height="60" as="geometry" />
+          <mxGeometry x="-115" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GkkZgiXeQc9Gm0APtSh3-36" target="-TDDyAZX5vg_yCtTEK7J-60" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="158.41176470588243" y="1023" as="targetPoint" />
+            <mxPoint x="45.41176470588243" y="1027" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-36" value="暗黑地牢" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="98" y="911" width="120" height="60" as="geometry" />
+          <mxGeometry x="-15" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-38" value="星之海" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="607" y="1165" width="81.25" height="60" as="geometry" />
@@ -461,7 +459,7 @@
           <mxGeometry x="2369" y="896" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-62" value="神界：原罪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="278" y="911" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GkkZgiXeQc9Gm0APtSh3-71" target="GkkZgiXeQc9Gm0APtSh3-74" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -569,7 +567,7 @@
           <mxGeometry x="-1251.5" y="1531.496666666667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-49" value="Atom RPG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-17" y="911" width="80" height="60" as="geometry" />
+          <mxGeometry x="-130" y="915" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-51" value="龙之信条" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-11" y="1701.5" width="100" height="60" as="geometry" />
@@ -581,7 +579,7 @@
           <mxGeometry x="725.5133333333339" y="1164.996666666667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-60" value="&lt;div&gt;幽暗迷城&lt;/div&gt;&lt;div&gt;(GloomHaven)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="98.00176470588244" y="1033" width="120" height="60" as="geometry" />
+          <mxGeometry x="-14.998235294117563" y="1037" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-TDDyAZX5vg_yCtTEK7J-62" target="O51LmECOLkoYSxK84_-_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
