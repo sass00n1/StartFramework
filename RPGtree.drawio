@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T03:15:26.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-DWfqIGopewAbTtxDs61" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T07:06:37.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="S01bPcDrfAeK3pjdH7HP" version="23.1.8" type="github">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
     <mxGraphModel dx="7580" dy="3470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-65" y="1562" />
-              <mxPoint x="182" y="1562" />
+              <mxPoint x="342" y="1562" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -255,6 +255,14 @@
         </mxCell>
         <mxCell id="cD8eSvdxsOORJXnzi-Va-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-37" target="cD8eSvdxsOORJXnzi-Va-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cD8eSvdxsOORJXnzi-Va-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O51LmECOLkoYSxK84_-_-37" target="cD8eSvdxsOORJXnzi-Va-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-65" y="1563" />
+              <mxPoint x="108" y="1563" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="O51LmECOLkoYSxK84_-_-37" value="上古卷轴系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-125" y="1471.5" width="120" height="60" as="geometry" />
@@ -423,10 +431,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-12" value="辐射3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="132" y="1601.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="292" y="1601.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-15" value="辐射：新维加斯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1701.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="220" y="1701.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GkkZgiXeQc9Gm0APtSh3-17" value="异度系列" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706.64" y="875.5" width="60" height="60" as="geometry" />
@@ -592,7 +600,7 @@
           <mxGeometry x="-130" y="915" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-51" value="龙之信条" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="204" y="1701.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="1701.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-TDDyAZX5vg_yCtTEK7J-56" value="磁带妖怪" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880.5133333333339" y="1165" width="120" height="60" as="geometry" />
@@ -685,6 +693,9 @@
         </mxCell>
         <mxCell id="cD8eSvdxsOORJXnzi-Va-9" value="黑暗之魂&lt;br&gt;（魂like里程碑）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1362" y="987" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cD8eSvdxsOORJXnzi-Va-11" value="战争传说 Wartales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1701.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
