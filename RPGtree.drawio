@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram id="w-nJ-eyJlRG34p8Wt6uV" name="第 1 页">
-    <mxGraphModel dx="6684" dy="2582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7317" dy="2922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2184,11 +2184,17 @@
         <mxCell id="x7dZv40Efw_c6EFD_AKu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Riven&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-3046" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="dbU4KBp0MaG-N4H3ilF1-4" edge="1" parent="1" source="x7dZv40Efw_c6EFD_AKu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="dbU4KBp0MaG-N4H3ilF1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x7dZv40Efw_c6EFD_AKu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="见证者" vertex="1">
           <mxGeometry height="50" width="120" x="-2941" y="655.5" as="geometry" />
         </mxCell>
         <mxCell id="dbU4KBp0MaG-N4H3ilF1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动物井" vertex="1">
           <mxGeometry height="50" width="120" x="-3150" y="757" as="geometry" />
+        </mxCell>
+        <mxCell id="dbU4KBp0MaG-N4H3ilF1-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="蓝途王子" vertex="1">
+          <mxGeometry height="50" width="120" x="-2941" y="754.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
