@@ -2203,10 +2203,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MREdYwIpoeJntTnUXS2x-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;行尸走肉（Telltale）&lt;/div&gt;&lt;div&gt;（互动电影里程碑）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82" width="141.5" x="228.25" y="1809" as="geometry" />
+          <mxGeometry height="59.5" width="141.5" x="228.25" y="1809" as="geometry" />
         </mxCell>
-        <mxCell id="MREdYwIpoeJntTnUXS2x-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;我们身边的狼&lt;/div&gt;&lt;div&gt;奇异人生&lt;/div&gt;&lt;div&gt;Oxenfree&lt;/div&gt;&lt;div&gt;圣殿春秋&lt;/div&gt;&lt;div&gt;超英派遣中心&lt;/div&gt;&lt;div&gt;Pentiment&lt;/div&gt;&lt;div&gt;日落黄昏时&lt;/div&gt;&lt;div&gt;The Council&lt;/div&gt;&lt;div&gt;This Bed We Made&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看火人&lt;/div&gt;&lt;div&gt;无敌号&lt;/div&gt;&lt;div&gt;致命频率&lt;/div&gt;" vertex="1">
-          <mxGeometry height="229" width="141.5" x="228.25" y="1952" as="geometry" />
+        <mxCell id="MREdYwIpoeJntTnUXS2x-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;我们身边的狼&lt;/div&gt;&lt;div&gt;奇异人生&lt;/div&gt;&lt;div&gt;肯塔基零号公路&lt;/div&gt;&lt;div&gt;Oxenfree&lt;/div&gt;&lt;div&gt;超英派遣中心&lt;/div&gt;&lt;div&gt;Pentiment&lt;/div&gt;&lt;div&gt;日落黄昏时&lt;/div&gt;&lt;div&gt;The Council&lt;/div&gt;&lt;div&gt;This Bed We Made&lt;/div&gt;&lt;div&gt;圣殿春秋&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看火人&lt;/div&gt;&lt;div&gt;无敌号&lt;/div&gt;&lt;div&gt;致命频率&lt;/div&gt;" vertex="1">
+          <mxGeometry height="268" width="141.5" x="228.25" y="1949" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
