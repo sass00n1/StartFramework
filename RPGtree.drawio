@@ -1129,7 +1129,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kF5I4Qa_tn_Zl4-QBffL-1" edge="1" parent="1" source="QKfNCQDg5xHg87y2mi7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="kJZ_sfZxqc5qoybPxWWd-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2630" y="2795.7" />
+              <mxPoint x="-1908" y="2795.7" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kF5I4Qa_tn_Zl4-QBffL-2" edge="1" parent="1" source="QKfNCQDg5xHg87y2mi7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="HQtpW8J7royaMi0G0IKN-1">
           <mxGeometry relative="1" as="geometry">
@@ -1139,13 +1144,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kF5I4Qa_tn_Zl4-QBffL-4" edge="1" parent="1" source="QKfNCQDg5xHg87y2mi7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="kF5I4Qa_tn_Zl4-QBffL-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-2630" y="2796.8" />
-              <mxPoint x="-2249" y="2796.8" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="kF5I4Qa_tn_Zl4-QBffL-5" edge="1" parent="1" source="QKfNCQDg5xHg87y2mi7i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="kF5I4Qa_tn_Zl4-QBffL-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKfNCQDg5xHg87y2mi7i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="&lt;div&gt;网络奇兵1&lt;/div&gt;&lt;div&gt;神偷1&lt;/div&gt;&lt;div&gt;神偷2&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-2690" y="2705.5" as="geometry" />
@@ -2231,7 +2231,7 @@
         </mxCell>
         <UserObject label="&lt;a href=&quot;https://www.gamedeveloper.com/design/redefining-game-narrative-ubisoft-s-patrick-redding-on-i-far-cry-2-i-?utm_source=chatgpt.com&quot;&gt;孤岛惊魂2&lt;/a&gt;" id="kF5I4Qa_tn_Zl4-QBffL-3">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1">
-            <mxGeometry height="60" width="120" x="-2309" y="2942.5" as="geometry" />
+            <mxGeometry height="60" width="120" x="-2306" y="2833.25" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
